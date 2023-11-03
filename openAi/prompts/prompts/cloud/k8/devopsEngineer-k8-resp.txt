@@ -1,0 +1,76 @@
+Main Topic: Kubernetes Fundamentals
+
+Subtopics:
+Kubernetes Components (API Server, Controller Manager, Scheduler, etc.)
+Cluster Architecture (Master and Nodes)
+Pod Lifecycle
+API Objects (Pods, Services, ConfigMaps, Secrets, etc.)
+API Resources (CPU, Memory, Labels, Annotations)
+Timeline: 1 week
+Resources:
+Kubernetes Official Documentation
+Kubernetes Up and Running book
+Online courses and YouTube tutorials
+Real-world use cases: Understanding the core components and resources is essential for working effectively with Kubernetes.
+Main Topic: Kubernetes Installation and Setup
+
+Subtopics:
+Local Development Environment (Minikube, Kind)
+Cloud-Based Kubernetes (GKE, EKS, AKS)
+Managing Cluster Configurations
+Timeline: 1 week
+Resources:
+Official Documentation for Kubernetes installation
+Tutorials for setting up a local cluster
+Real-world use cases: Setting up a development environment and managing cluster configurations.
+Main Topic: Deployments and Application Management
+
+Subtopics:
+Deployments and ReplicaSets
+DaemonSets and StatefulSets
+Managing Configurations (ConfigMaps and Secrets)
+Deploying Applications with Helm
+Timeline: 2 weeks
+Resources:
+Kubernetes documentation on Deployments
+Helm documentation
+Real-world use cases: Deploying, scaling, and managing complex applications.
+Main Topic: Networking in Kubernetes
+
+Subtopics:
+Services and Ingress
+Network Policies
+CNI Plugins
+Advanced Networking Concepts (e.g., Istio)
+Timeline: 2 weeks
+Resources:
+Kubernetes documentation on Services and Ingress
+Network Policy documentation
+Istio documentation (for advanced networking)
+Real-world use cases: Designing and implementing network solutions for large-scale applications.
+Main Topic: Monitoring, Logging, and Security
+
+Subtopics:
+Monitoring with Prometheus
+Logging with Fluentd and Elasticsearch
+Role-Based Access Control (RBAC)
+Security Best Practices
+Timeline: 2 weeks
+Resources:
+Kubernetes monitoring and logging documentation
+Kubernetes RBAC documentation
+Security best practice guides
+Real-world use cases: Implementing robust monitoring, logging, and security in production clusters.
+Main Topic: Advanced Topics and Customization
+
+Subtopics:
+Custom Resource Definitions (CRDs)
+Operators
+CI/CD Pipelines
+Advanced Kubernetes Networking (e.g., Service Mesh)
+Timeline: 2 weeks
+Resources:
+Kubernetes documentation on CRDs and Operators
+CI/CD tools like Jenkins or GitLab CI
+Service Mesh documentation (e.g., Istio or Linkerd)
+Real-world use cases: Building and customizing advanced solutions for large-scale applications.

@@ -1,0 +1,32 @@
+Hi, i am a software developer wanted to mastery in kubernetes. I am currently working in this technology 
+looking for guided indetailed cirriculum path with specific timeline. I am looking to master kubernetes with in next 1 month, so format timeline as per target. 
+I am switching to product based companies which work on large customer base like google, apple etc. So it required skilled person in same.
+Please refer format mentioned in ''' and ends with -''' to answer. 
+
+Also provide top useful certification with proper guidance on exam structure to fess for exam and also provide
+training mateials for same. Please use format to answer mentioned in <> and ends with </>
+
+Suppose you are currently working as associate java developer and wanted to explore real time scenarios on kubernetes usecase, cicd etc. 
+Provide 5 examples on case studies for kubernets. Use format mentioned below to answer and provide it point wise.
+
+Real world scenario: ...
+Its impact after shift to kubernetes: 
+Usecases: 
+how do they achive it: 
+architecture for their project scenario
+
+Formats to use for above questions
+'''
+Main Topic name: 
+    - Subtopics in it: 
+        subtopic1 
+        subtopic2 ....
+      Timeline to complete it 
+      Resources to refer
+      real world use cases 
+
+-'''
+
+<>
+
+</>
