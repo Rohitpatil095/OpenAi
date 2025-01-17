@@ -1,0 +1,184 @@
+---- prompt regarding design well cirriculum for dsa prepation for google with in 2 months prepation.
+
+<developerLimitations>
+1- developer is a working professional who just started in IT industry and working since 2 years
+2- He is working as devops a engineer currently in service base company and wanted to get job in software development role in FAANG companies
+3- currently started learning java and wanted to expert topic with in 4 months mentioned in  <sampleCirriculum>
+<developerLimitations>
+
+
+<sampleCirriculum>
+For Beginner- Total months it will take 12
+
+for 2 Months
+Programming Language Fundamentals
+Introduction to Java
+Input Output and Data Types
+Operators
+Conditions
+Loops
+Pattern Problems
+Functions
+1D and 2D Arrays
+Strings
+Memory Management
+Basic OOP for Problem Solving
+
+next 4.5 Months
+Data Structures and Algorithms
+Time and Space Complexity
+Array Problem Solving Techniques
+Bit Manipulation
+Maths for Problem Solving
+Recursion
+Backtracking
+Sorting
+Searching(Binary Search)
+Two Pointers
+Hashing
+Strings and Pattern Matching
+Data Structures
+Linked Lists
+Stacks
+Queues and Deques
+Trees and BST
+Tries
+Heaps
+Advanced Problem Solving Techniques
+Greedy
+Dynamic Programming
+Graphs
+
+next 0.5 Months
+SQL
+Relational Model
+CRUD
+Joins
+Aggregation
+Subqueries
+Views
+Transactions
+Indexing
+
+next 3.5 Months
+*Only 1 Specialisation is allowed per learner. Recorded lectures for the other can be availed via Student Dashboard. At Least 1 Specialisation is mandatory for successful completion of the course.
+Fullstack Engineering
+HTML, CSS, Javascript
+Advanced HTML, CSS Case Studies
+Advanced JS Concepts (OOP and Concurrency) and Popular Interview Questions
+JS for Web Dev (DOM Manipulation, Event Handling)
+Design Patterns
+Git
+React
+Redux
+How Internet Works (TCP, UDP, HTTP, Layering Architecture)
+API Design
+Deployment
+Frontend LLD and Machine Coding Case Studies
+Testing
+MongoDB
+NodeJS
+ExpressJS
+Backend Architecture
+Capstone Projects
+Or
+Backend Engineering
+OOP
+Multithreading
+Adv Lang Concepts and Popular Interview Questions
+SOLID
+Design Patterns
+UML Diagrams
+Schema Design
+How Internet Works (TCP, UDP, HTTP, Layering Architecture)
+API Design
+MVC
+Backend LLD and Machine Coding Case Studies
+Unit Testing
+ORM
+Deployment
+Git
+Spring Boot
+Project Interview Questions (Spring/Hibernate)
+Capstone Projects (include advance things like implementing Payment API)
+
+next 1 Month
+Introduction to Scale and Scaling Techniques
+Introduction to Caching Techniques
+Introduction to SQL and NoSQL Databases
+Introduction to Event Driven Architecture
+Introduction to Microservice Architecture
+
+next 1-2 Months
+*A learner can do as many electives as they want, but only after completion of Core Curriculum.
+Advanced Software & System Design - 1.5 months
+Consistent Hashing
+Caching
+CAP Theorem
+Distributed Systems & Databases
+SQL and NoSQL
+Scalability
+Zookeeper + Kafka
+Location Based Services (S3, Quad Trees)
+Microservices
+Case Studies
+And/Or
+Data Engineering - 2 Months
+Building efficient Data Processing Systems
+Advanced SQL
+Cloud Services - AWS, or GCP
+Developing ETL pipelines
+Map-Reduce Framework
+Big Data
+Data Warehousing & Modelling
+OLAP, Dashboarding
+Workflow Orchestration
+Logging, and Monitoring
+MapReduce, HiveQL, Presto
+Projects
+And/Or
+DSA for Competitive Programming - 1 Months
+Combinatorics and Probability
+Matrix exponentiation
+Advanced Trees: Segment Tree, k-D Tree
+Disjoint Set Union
+Advanced Dynamic Programming
+Advanced Graphs: Bridges, Articulation point, Network Flow
+And/Or
+Product Management for Engineers - 1 Month
+Introduction to Product Management
+Product Thinking & Product Discovery
+Product Roadmap & Prioritization
+Mental Models for Product Managers
+Product Analytics
+Hands-on case study & Mixpanel session
+Delivery & Project Management
+Practical ways to apply PM lessons as an Engineer
+
+</sampleCirriculum>
+
+'''
+Main Topic: ...
+Sub topic: 
+    sub-topic-name: 
+        period of prepation
+        most asked question on topic:
+        use cases:
+        day wise topics prepation chart:
+ 
+'''
+
+"""
+Your task to design cirriculum for prepation of data structure and alogorithm for working professional.
+While designing cirriculum understand devolopers limitation and consider those limitation while design. 
+
+Developers limitations mentioned between <developerLimitations> and closes on  </developerLimitations>
+if <developerLimitations> is empty then consider him as fresher and just started his carrer in IT.
+
+before designing cirriculum refrence sample cirriculum provided between <sampleCirriculum> and ends on </sampleCirriculum>, if not present any sample consider youself
+evaluate <sampleCirriculum> and analyze as per  <developerLimitations> for cirriculum design.
+
+Provide cirriculum solution in format mentioned in ''' and ends on '''
+
+
+"""
